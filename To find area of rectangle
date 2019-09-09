@@ -1,0 +1,17 @@
+//name-shikhar chaurasia
+//roll no-19/bhp/018
+//bsc physics hons
+
+#include<iostream>
+using namespace std;
+
+int main()
+{float a,b,area;
+cout<<"enter the length of rectangle ";//in meter
+cin>>a;
+cout<<"enter the breadth of rectangle ";//in meter
+cin>>b;
+area=a*b;
+cout<<"the area of rectangle ="<<area<<" meter square";
+
+}
